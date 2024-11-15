@@ -1,0 +1,67 @@
+{
+  "footer": [
+    {
+      "links": [
+        {
+          "title": "Qucik Links",
+          "innerItem": [
+            {
+              "link": "#",
+              "text": "Pages"
+            },
+            {
+              "link": "/",
+              "text": "Blog"
+            },
+            {
+              "link": "/",
+              "text": "Contact"
+            },
+            {
+              "link": "/",
+              "text": "How to use"
+            },
+            {
+              "link": "/",
+              "text": "Roadmap"
+            }
+          ]
+        }
+      ],
+      "services": [
+        {
+          "title": "Services",
+          "innerItem": [
+            {
+              "link": "/",
+              "text": "Transcription Agent"
+            },
+            {
+              "link": "/",
+              "text": "Appointment Notes Agent"
+            },
+            {
+              "link": "/",
+              "text": "Report Generating Agent"
+            },
+            {
+              "link": "/",
+              "text": "Growth Marketing Agent"
+            },
+            {
+              "link": "#",
+              "text": "Inbound & Outbound Call Center Agent"
+            }
+          ]
+        }
+      ],
+      "contact": [
+        {
+          "location": "",
+          "mail": "ahmed.saeed@aiconnecthub.ai",
+          "number": "1"
+        }
+      ]
+    }
+  ]
+}
