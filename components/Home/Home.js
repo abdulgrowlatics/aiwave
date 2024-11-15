@@ -77,7 +77,7 @@ const Home = () => {
                               : "is-hidden theme-gradient"
                           }
                         >
-                          Comming Soon
+                          Coming Soon
                         </b>
                         <b
                           className={
@@ -86,7 +86,7 @@ const Home = () => {
                               : "is-hidden theme-gradient"
                           }
                         >
-                          Comming Soon
+                          Coming Soon
                         </b>
                       </span>
                     </span>
@@ -94,8 +94,8 @@ const Home = () => {
                   {/* AI Agents */}
                 </h1>
                 <p className="description">
-                Unleash productivity,minimise hours of manual <br />{" "}
-                work - have AI Agents work alongside humans to get work done faster, smarter and more efficiently (Comming Soon)
+                Unleash productivity, minimise hours of manual <br />{" "}
+                work - have AI Agents work alongside humans to get work done faster, smarter and more efficiently (Coming Soon)
                 </p>
                 {/* <div className="form-group">
                   <textarea
