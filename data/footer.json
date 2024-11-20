@@ -19,8 +19,12 @@
             },
             {
               "link": "/",
-              "text": "Pricing"
+              "text": "How to use"
             },
+            {
+              "link": "/",
+              "text": "Roadmap"
+            }
           ]
         }
       ],
