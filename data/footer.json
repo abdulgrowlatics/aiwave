@@ -3,7 +3,7 @@
     {
       "links": [
         {
-          "title": "Qucik Links",
+          "title": "Quick Links",
           "innerItem": [
             {
               "link": "#",
@@ -19,12 +19,8 @@
             },
             {
               "link": "/",
-              "text": "How to use"
+              "text": "Pricing"
             },
-            {
-              "link": "/",
-              "text": "Roadmap"
-            }
           ]
         }
       ],
