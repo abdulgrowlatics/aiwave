@@ -34,7 +34,7 @@
     },
     {
       "link": "#",
-      "text": "Tools",
+      "text": "Agents",
       "isIcon": true,
       "isMenu": true,
       "dropdown": true,
@@ -71,19 +71,13 @@
         }
       ]
     },
-    {
-      "link": "#",
-      "text": "Pages",
-      "isIcon": true,
-      "isMenu": true,
-      "megamenu": true
-    },
+   
    
     {
       "link": "#",
       "isIcon": false,
       "isMenu": false,
-      "text": "How to use"
+      "text": "Pricing"
     }
   ],
   "smallNavItem": [
