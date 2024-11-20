@@ -55,10 +55,10 @@ const Home = () => {
           <div className="row justify-content-center">
             <div className="col-lg-12">
               <div className="inner text-center mt--140">
-                <h1 className="title display-one">
-                  Examine the Potential of
-                  <br />{" "}
-                  <span className="header-caption">
+                // <h1 className="title display-one">
+                  // Examine the Potential of
+                  // <br />{" "}
+                  <span className="header-caption title display-one">
                     <span className="cd-headline rotate-1">
                       <span className="cd-words-wrapper">
                         <b
@@ -92,10 +92,10 @@ const Home = () => {
                     </span>
                   </span>{" "}
                   {/* AI Agents */}
-                </h1>
+                // </h1>
                 <p className="description">
                 Unleash productivity, minimise hours of manual <br />{" "}
-                work - have AI Agents work alongside humans to get work done faster, smarter and more efficiently (Coming Soon)
+                work - have AI Agents work alongside humans to get work done faster, smarter and more efficiently (coming soon)
                 </p>
                 {/* <div className="form-group">
                   <textarea
