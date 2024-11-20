@@ -56,8 +56,7 @@ const Home = () => {
             <div className="col-lg-12">
               <div className="inner text-center mt--140">
                 // <h1 className="title display-one">
-                  // Examine the Potential of
-                  // <br />{" "}
+  
                   <span className="header-caption title display-one">
                     <span className="cd-headline rotate-1">
                       <span className="cd-words-wrapper">
