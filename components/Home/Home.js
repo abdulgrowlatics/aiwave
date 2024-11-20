@@ -55,7 +55,7 @@ const Home = () => {
           <div className="row justify-content-center">
             <div className="col-lg-12">
               <div className="inner text-center mt--140">
-                // <h1 className="title display-one">
+
   
                   <span className="header-caption title display-one">
                     <span className="cd-headline rotate-1">
@@ -91,7 +91,7 @@ const Home = () => {
                     </span>
                   </span>{" "}
                   {/* AI Agents */}
-                // </h1>
+                
                 <p className="description">
                 Unleash productivity, minimise hours of manual <br />{" "}
                 work - have AI Agents work alongside humans to get work done faster, smarter and more efficiently (coming soon)
