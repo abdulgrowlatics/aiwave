@@ -67,7 +67,7 @@ const Home = () => {
                               : "is-hidden theme-gradient"
                           }
                         >
-                          AI Agent 
+                          AI Agents 
                         </b>
                         <b
                           className={
