@@ -8,9 +8,7 @@ const SigninPage = () => {
   return (
     <>
       <PageHead title="Sign In" />
-      <Context>
-        <SignIn />
-      </Context>
+    
     </>
   );
 };
