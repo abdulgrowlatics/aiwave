@@ -18,30 +18,7 @@ const BlogPage = () => {
     <>
       <PageHead title="Blog" />
 
-      <main className="page-wrapper">
-        <Context>
-          <HeaderTop />
-          <Header
-            headerTransparent="header-transparent"
-            headerSticky="header-sticky"
-            btnClass="rainbow-gradient-btn"
-          />
-          <PopupMobileMenu />
-          <Breadcrumb title="Our Blog" text="Blog" />
-
-          <Blog />
-
-          <div className="rainbow-cta-area rainbow-section-gap rainbow-section-gapBottom-big bg-color-1">
-            <div className="container">
-              <CtaTwo />
-            </div>
-          </div>
-
-          <BackToTop />
-          <Footer />
-          <Copyright />
-        </Context>
-      </main>
+     
     </>
   );
 };
