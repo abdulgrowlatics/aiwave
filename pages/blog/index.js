@@ -16,7 +16,7 @@ import Blog from "@/components/Blog/Blog";
 const BlogPage = () => {
   return (
     <>
-      <PageHead title="Blog" />
+      
 
      
     </>
