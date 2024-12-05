@@ -13,18 +13,7 @@ const ReleaseNotesPage = () => {
     <>
       <PageHead title="Release Notes" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-<CommingSoon/>
-            {/* <Release /> */}
-          </div>
-          <BackToTop />
-        </Context>
-      </main>
+      
     </>
   );
 };
