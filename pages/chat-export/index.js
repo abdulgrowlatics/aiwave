@@ -12,17 +12,7 @@ const ChatExportPage = () => {
     <>
       <PageHead title="Chat Export" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-            <CommingSoon/>
-            {/* <ChatExport /> */}
-          </div>
-        </Context>
-      </main>
+      
     </>
   );
 };
