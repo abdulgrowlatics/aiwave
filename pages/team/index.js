@@ -18,25 +18,7 @@ const TeamPage = () => {
     <>
       <PageHead title="Team" />
 
-      <main className="page-wrapper bg-dark">
-        <Context>
-          <HeaderTop />
-          <Header
-            headerTransparent="header-transparent"
-            headerSticky="header-sticky"
-            btnClass="rainbow-gradient-btn"
-          />
-          <PopupMobileMenu />
-          <Breadcrumb title="Our Team" text="Team" />
-
-          {/* <Team /> */}
-          <CommingSoon />
-
-          <BackToTop />
-          <Footer />
-          <Copyright />
-        </Context>
-      </main>
+      
     </>
   );
 };
