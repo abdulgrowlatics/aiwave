@@ -12,17 +12,7 @@ const AppearancePage = () => {
     <>
       <PageHead title="Appearance" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-            <CommingSoon/>
-            {/* <Appearance /> */}
-          </div>
-        </Context>
-      </main>
+     
     </>
   );
 };
