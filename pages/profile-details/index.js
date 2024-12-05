@@ -11,17 +11,7 @@ const ProfileDetailsPage = () => {
     <>
       <PageHead title="Profile Details" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-
-            <ProfileDetails />
-          </div>
-        </Context>
-      </main>
+     
     </>
   );
 };
