@@ -39,16 +39,6 @@ const RoadmapPage = () => {
         </Context>
       </main> */}
 
-<main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-            <CommingSoon/>
-          </div>
-        </Context>
-      </main>
     </>
   );
 };
