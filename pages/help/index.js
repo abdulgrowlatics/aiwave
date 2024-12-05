@@ -13,19 +13,7 @@ const HelpFaqPage = () => {
     <>
       <PageHead title="Help & FAQs" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-<CommingSoon/>
-            {/* <Help /> */}
-          </div>
-          <BackToTop />
-        </Context>
-      </main>
+     
     </>
   );
 };
