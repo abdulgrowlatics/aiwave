@@ -16,23 +16,7 @@ const StyleGuidepage = () => {
     <>
       <PageHead title="Style Guide" />
 
-      <main className="page-wrapper">
-        <Context>
-          <HeaderTop />
-          <Header
-            headerTransparent="header-transparent"
-            headerSticky="header-sticky"
-            btnClass="rainbow-gradient-btn"
-          />
-          <PopupMobileMenu />
-          <Breadcrumb title="Style Guide" text="Style Guide" />
-
-          <StyleGuide />
-
-          <Footer />
-          <Copyright />
-        </Context>
-      </main>
+      
     </>
   );
 };
