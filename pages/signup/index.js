@@ -8,9 +8,7 @@ const SignupPage = () => {
   return (
     <>
       <PageHead title="Sign Up" />
-      <Context>
-        <SignUp />
-      </Context>
+     
     </>
   );
 };
