@@ -17,32 +17,7 @@ const EmailGeneratorPage = () => {
     <>
       <PageHead title="Email Generator" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <div className="rbt-panel-wrapper">
-          <Context>
-            <LeftDashboardSidebar />
-            <HeaderDashboard display="" />
-            <RightDashboardSidebar />
-            <Modal />
-            <PopupMobileMenu />
-
-            <div className="rbt-main-content">
-              <div className="rbt-daynamic-page-content">
-                <div className="rbt-dashboard-content">
-                  <div className="content-page">
-                    <div className="chat-box-section">
-                      <EmailGenerator />
-                      <StaticbarDashboard />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <BackToTop />
-          </Context>
-        </div>
-      </main>
+     
     </>
   );
 };
