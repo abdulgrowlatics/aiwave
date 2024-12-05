@@ -12,18 +12,7 @@ const TermsPolicyPage = () => {
     <>
       <PageHead title="Terms and Policy" />
 
-      <main className="page-wrapper rbt-dashboard-page bg-dark">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-
-            {/* <TermsPolicy /> */}
-            <CommingSoon />
-          </div>
-        </Context>
-      </main>
+      
     </>
   );
 };
