@@ -16,24 +16,7 @@ const BlogDetailsPage = () => {
     <>
       <PageHead title="Blog Details" />
 
-      <main className="page-wrapper">
-        <Context>
-          <HeaderTop />
-          <Header
-            headerTransparent="header-transparent"
-            headerSticky="header-sticky"
-            btnClass="rainbow-gradient-btn"
-          />
-          <PopupMobileMenu />
-          <Breadcrumb title="Blog Details" text="Blog Details" />
-
-          <SingleBlog />
-
-          <BackToTop />
-          <Footer />
-          <Copyright />
-        </Context>
-      </main>
+     
     </>
   );
 };
