@@ -11,18 +11,7 @@ const ApplicationPage = () => {
     <>
       <PageHead title="Applications" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-<CommingSoon/>
-            {/* <Applications /> */}
-          </div>
-        </Context>
-      </main>
+      
     </>
   );
 };
