@@ -12,17 +12,7 @@ const SessionsPage = () => {
     <>
       <PageHead title="Sessions" />
 
-      <main className="page-wrapper rbt-dashboard-page">
-        <Context>
-          <div className="rbt-panel-wrapper">
-            <HeaderDashboard display="d-none" />
-            <PopupMobileMenu />
-            <LeftDashboardSidebar />
-            <CommingSoon/>
-            {/* <Sessions /> */}
-          </div>
-        </Context>
-      </main>
+     
     </>
   );
 };
